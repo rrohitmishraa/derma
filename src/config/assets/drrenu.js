@@ -1,8 +1,9 @@
 // logos
 import logo from "../../assets/logo.png";
 import hero from "../../assets/hero.webp";
+
+//doc-image
 import imgDoc from "../../assets/dr-renu.png";
-// rohit
 
 // service images
 import dermatology from "../../assets/services/dermatology.webp";
