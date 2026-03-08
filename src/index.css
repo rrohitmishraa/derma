@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 70px;
+}
+.section {
+  @apply py-24 md:py-32;
+}
+
+.section-light {
+  @apply bg-white;
+}
+
+.section-soft {
+  @apply bg-gradient-to-b from-blue-50 to-white;
+}
